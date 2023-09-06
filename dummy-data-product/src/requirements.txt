@@ -1,0 +1,10 @@
+The Libraries used in the project are: 
+
+1) BeautifulSoup4: To extract/Scrape data from respective websites.
+2) requests module: To gain access to the url.
+3) Pandas library: To convert gained data into dataframe and get output as '.csv' file format
+
+requests~=2.31.0
+pandas~=2.1.0
+beautifulsoup4~=4.12.2
+numpy~=1.25.2
